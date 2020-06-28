@@ -1,0 +1,9 @@
+
+server:
+  port: 9008
+
+elasticsearch:
+  #  hostName: 192.168.44.128
+  hostName: localhost
+  rest-port: 9200
+  open: true
